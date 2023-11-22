@@ -1,0 +1,7 @@
+src/add_sub_module.sv
+src/exp_comp.sv
+src/FPU.sv
+src/frac_comp.sv
+src/normalize_result.sv
+src/shift_fract.sv
+src/sign_of_res.sv
